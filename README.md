@@ -61,7 +61,7 @@ Q1. Are the manufacturing lots (all and each individually) statistically differe
 * Metrics to be used in an additional statistical study between Mechacar and their competition could be city or highway fuel efficiency and horse power.
 * A null hypothesis could be that the horse power of a vehicle would directly effect the fuel efficiency of that vehicle. Where as the alternative hypothesis would be that the horse power of that vehicle does not effect the fuel efficiency.
 * I would use the linear regression model because it can be used used to predict a continuous dependent variable based on one or more independent variables. We can also use this to create visualizations for the data to show the client.
-* We could look at data for the fuel efficiency, horsepower, vehicle id, vehicle length, and vehicle weight to be included in this study.
+* We could look at data for the fuel efficiency(city vs. hwy), horsepower, vehicle make/model, vehicle length, and vehicle weight to be included in this study.
   
   
 
